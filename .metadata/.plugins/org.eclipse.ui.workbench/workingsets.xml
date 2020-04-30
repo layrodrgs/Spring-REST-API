@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587678211314_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=osworks-api/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=osworks-api/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=osworks-api/target\/generated-sources\/annotations=/ignore_optional_problems=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587678211420_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=osworks-api/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=osworks-api/target\/generated-test-sources\/test-annotations=/ignore_optional_problems=/true=/=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587678232743_2" label="Window Working Set" name="Aggregate for window 1587678232742"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587761096424_3" label="Window Working Set" name="Aggregate for window 1587761096423"/>
+</workingSetManager>
