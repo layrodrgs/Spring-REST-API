@@ -1,0 +1,15 @@
+package snippet;
+
+import org.springframework.http.ResponseEntity;
+
+public class Snippet {
+	public static ResponseEntity<Object> main(String[] args) {
+		Object clienteRepository;
+		Object clienteId;
+		Object existsById;
+		if(!((Object) clienteRepository).existsById(clienteId)) {
+					return ResponseEntity.notFound().build();
+				}
+	}
+}
+
